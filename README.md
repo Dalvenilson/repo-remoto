@@ -1,9 +1,7 @@
 
 # repo-remoto
 
-
-teste, teste
-=======
+=======================================================
 
 # DIO | Resumos Git e GitHub
 
