@@ -24,5 +24,3 @@ Reposição para armazenar resumos sobre Git e GitHub da [Digital inovation one]
 ```
 Git init
 ```
-# Referências
->>>>>>> d4f22b5 (inicial)
